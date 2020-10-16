@@ -1,2 +1,5 @@
-# tpdatos-2c-2020
-Trabajo práctico - Organización de Datos FIUBA
+# Trabajo práctico Organización de Datos - 2c 2020
+#
+# Grupo: OscarLaOveja
+#
+> Aristegui Facundo - 90646
