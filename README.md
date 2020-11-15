@@ -7,3 +7,7 @@
 > Cesar Castellanos - 81404
 
 > Felipe Copertini - 101651
+
+> Franco Bragantini - 97190
+
+> Martín Sosa- 98741
